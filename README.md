@@ -1,4 +1,4 @@
-Laboratory exercises for the course *Digital Image Processing and Analysis* (*Digitalna obrada i analiza slike*) at the Faculty of Electrical Engineering and Computing (FER), University of Zagreb, academic year 2023/2024. All exercises are Jupyter notebooks written in Python and run in Google Colab. The task descriptions and notebook framework come from the course, and the solutions are mine.
+Laboratory exercises for the course *Digital Image Processing and Analysis* (*Digitalna obrada i analiza slike*) at the Faculty of Electrical Engineering and Computing (FER), University of Zagreb. All exercises are Jupyter notebooks written in Python and run in Google Colab. The task descriptions and notebook framework come from the course, and the solutions are mine.
 
 ## Contents
 
